@@ -111,5 +111,5 @@ A copied file goes stale the moment someone updates the original. A referenced f
 <br/>
 
 <p align="center">
-  <sub>Made with 💜 for cleaner Kadince imports.</sub>
+  <sub>Made with 💜 by Dee.</sub>
 </p>
