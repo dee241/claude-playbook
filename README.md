@@ -1,6 +1,3 @@
-<!-- ============================= BANNER ============================= -->
-<!-- 👉 Swap this for your own banner gif. ~1000×240 looks best.
-     Drop a file at .github/banner.gif in the repo, or paste a Giphy/Tenor URL. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/dee241/claude-playbook/main/.github/banner.gif" alt="Claude Playbook banner" width="1000px" height="240px">
 </p>
@@ -27,9 +24,9 @@
 <!-- ============================= WHAT ============================= -->
 <h2 align="center">🟣 What is this?</h2>
 
-This repo is the **single source of truth** for how Claude Code should behave on our projects — conventions, standards, "always do this / never do that" rules, and the context every teammate would otherwise have to re-explain.
+This repo is the **single source of truth** for how Claude Code should behave on our projects.
 
-Instead of emailing a file around or pasting it into each session, everyone **references this one repo**. You clone it once, point Claude Code at it, and pull when it changes. No more downloading a fresh copy every time. 🎉
+Instead of pasting it into each session, everyone **references this one repo**. You clone it once, point Claude Code at it, and pull when it changes. No more downloading a fresh copy every time 🎉
 
 <br/>
 
