@@ -14,9 +14,6 @@
 <!-- ============================= BADGES ============================= -->
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=|&message=CLAUDE%20CODE&color=8B52FF&style=plastic&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=MARKDOWN&color=905AFF&style=plastic&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=VERSION%20CONTROLLED&color=9461FC&style=plastic&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=PRs%20WELCOME&color=9F70FE&style=plastic&logo=github&logoColor=white"/>
 </p>
 
 <br/>
