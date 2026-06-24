@@ -20,7 +20,7 @@
 
 ## 🟣 About
 
-This repo holds one file: `CLAUDE.md`. It's the playbook Claude Code reads before working on a Kadince data import — the workflow, the known gotchas, and the decisions carried over from past imports. One home for it means everyone runs the same process, and an update reaches the whole team at once instead of being copied around.
+This repo holds one file: `CLAUDE.md`. It's the playbook Claude Code reads before working on a Kadince data import!
 
 <br/>
 
