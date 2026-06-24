@@ -139,5 +139,5 @@ Next session picks up the new version automatically.
 <br/>
 
 <p align="center">
-  <sub>Made with 💜 for cleaner Claude Code sessions.</sub>
+  <sub>Made with 💜 by Dee</sub>
 </p>
