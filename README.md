@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <em>One shared brain for every Claude Code session!.</em>
+  <em>One shared brain for every Claude Code session!</em>
 </p>
 
 <!-- ============================= BADGES ============================= -->
