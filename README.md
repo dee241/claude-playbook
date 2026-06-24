@@ -31,15 +31,15 @@ This repo holds one file: `CLAUDE.md`. It's the playbook Claude Code reads befor
 
 1. Clone the repo once to a fixed location:
 
-   ```bash
+```bash
    git clone https://github.com/dee241/claude-playbook.git ~/dev/claude-playbook
-   ```
+```
 
 2. Reference it from the project you're importing in. Add this line to that project's `CLAUDE.md`:
 
-   ```md
+```md
    @~/dev/claude-playbook/CLAUDE.md
-   ```
+```
 
    Claude Code loads it at the start of each session. The first time, it asks you to approve the import — approve it.
 
