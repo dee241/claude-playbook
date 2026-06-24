@@ -59,7 +59,7 @@ git clone https://github.com/dee241/claude-playbook.git ~/dev/claude-playbook
 
 Claude Code loads it at the start of each session. The first time, it asks you to approve the import — approve it. ✅
 
-> 💡 You can also copy `CLAUDE.md` into your working folder and Claude Code picks it up automatically, but the import line keeps you on the latest version without re-copying.
+> 💡 You can also copy `CLAUDE.md` into your working folder and Claude Code picks it up automatically, but the import line keeps you on the latest version without re-copying
 
 <br/>
 
