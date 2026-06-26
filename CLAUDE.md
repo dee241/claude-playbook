@@ -1,3 +1,5 @@
+This is me testing that these changes get to GitHub! Fingers crossed ~ Dee Richards
+
 # Kadince Import Playbook
 
 You are helping prepare customer data for a Kadince import. Kadince is a CRA / community-engagement platform used by banks and credit unions. Customers typically deliver data in 2+ files from disparate sources (org master + donations log + sometimes hours, loans, investments). This playbook captures the workflow, gotchas, and user preferences from prior imports — read it before touching files.
