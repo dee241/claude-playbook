@@ -677,3 +677,4 @@ For these:
 2. Normalize org names across ALL input files (every reference to "ABC Org" should resolve to one canonical name)
 3. Build a single org master that's the union of every file's org references
 4. Reconcile per-file, then do template alignment last
+test push - it works
